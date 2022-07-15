@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "id": "98asdf798asd7f",
+            "description": "Item 1",
+            "file": "file 1",
+            "points": 1,
+            "itemType": "Tipo 1",
+            "category": "atualização continuada"
+        },
+        {
+            "id": "978adf7t7c6vt",
+            "description": "Item 2",
+            "file": "file 2",
+            "points": 2,
+            "itemType": "Tipo 2",
+            "category": "funcional pedagógico"
+        },
+        {
+            "id": "a8d7f98adsfy98daf",
+            "description": "Item 3",
+            "file": "file 3",
+            "points": 3,
+            "itemType": "Tipo 3",
+            "category": "atualização continuada"
+        }
+    ]
+}
